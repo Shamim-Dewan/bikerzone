@@ -1,0 +1,24 @@
+.cl{
+    background-color: #FCF0ED;
+}
+.fetured-heading{
+    text-align: center;
+    margin-top: 100px;
+}
+.text-orange{
+    color: orange;
+}
+.btn-orange{
+    background-color: orange;
+}
+.star-img{
+    width: 30px;
+    height: 30px;
+}
+.name{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(28, 164, 218);
+    align-items: center;
+    margin-top: 50px;
+}
